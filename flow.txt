@@ -1,0 +1,43 @@
+
+
+
+Selection ->fetching->processing->display
+
+
+Selection->select options->
+                 parameters->
+                   radio buttons
+check boxs
+
+
+order->vbak,vbap--------------------------A--a,1,2,3
+
+delivery->likp lips
+
+
+shippment->vttk vttp
+invoice->vbrk vbrp
+
+
+
+vbfa
+
+
+A -A 123------------->vbak -A
+                     vbap- 1,2,3,A     VBAF->A
+
+Delievry->a-x
+                  likp->x  lips x,1,23   vbfa-> x ->A
+
+shippen> X-s  vttk s vttp s x 123
+
+
+s 1
+s 2
+s 3
+
+
+
+
+
+
