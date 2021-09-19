@@ -7,16 +7,16 @@ Selection ->fetching->processing->display
 Selection->select options->
                  parameters->
                    radio buttons
-check boxs
+check boxsgfjd
 
 
-order->vbak,vbap--------------------------A--a,1,2,3
+order->vbak,vbap-xgnh-------------------------A--a,1,2,3
 
-delivery->likp lips
+delivery->likp lixgbnhcgps
 
 
-shippment->vttk vttp
-invoice->vbrk vbrp
+shippment->vttk vxgnhttp
+invoice->vbrk vxgbchbrp
 
 
 
